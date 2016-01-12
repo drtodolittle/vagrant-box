@@ -6,5 +6,6 @@ Download Vagrantfile from https://raw.githubusercontent.com/drtodolittle/vagrant
 Open a shell and execute the command "vagrant up". The Camunda server starts not automatically on boot. You must start the server manually. 
 
   1) Connect to the box with "vagrant ssh". 
+  
   2) Execute /opt/camunda-7.4/start-camunda.sh
   
